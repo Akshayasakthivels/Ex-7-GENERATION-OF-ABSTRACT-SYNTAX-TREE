@@ -250,8 +250,8 @@ c = a - b;
 } else {
 c = a + b;
 }
-}
-# Output
+```
+## Output ##
 ![image](https://github.com/Akshayasakthivels/Ex-7-GENERATION-OF-ABSTRACT-SYNTAX-TREE/assets/144870561/96c4820c-f0ba-4d57-aebd-174bade9e504)
 
 # Result
